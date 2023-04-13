@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+for more information look at the link below 
+
+https://amendx.github.io/vue-dndrop/guide/installation.html
